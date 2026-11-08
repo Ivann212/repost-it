@@ -1,0 +1,14 @@
+Modifications à faire pour le jeu repost-it
+
+Cacher les étiquettes de manière à ce que l'on ne les voit que lorsque l'on passe dessus avec la souris
+Virer les camions ou du moins les redimensionner et les remettre correctement
+Agrandir fortement la zone et mettre un système de zoom molette pour voir plus en détail la zone intéressante
+Mettre un petit opérateur en 2.5D iso pour s'aligner dans la thématique du reste du jeu
+
+Supprimer les règles du jeu dans la colonne à droite
+créer un onglet spécial avec les règles du jeu auquel on peut accéder via une roue de paramètre en haut à droite et à c^^oté du bouton vitesse (c^^oté droit)
+Supprimer la case opérateur et mettre une case / onglet avec les statistiques
+Remplacer la mention "e-coins" par un symbole de pièce
+Centrer les chiffres en dessous des mentions JOUR / COLIS EXPEDIÉS / RECETTES / TRÉSORERIE
+Suppression case activité (la case statistique va prendre la place)
+il faut également un bouton permettant d'afficher plus de de statistiques
